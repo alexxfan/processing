@@ -6,7 +6,7 @@
 
 ## Description
 
-This repository contains an animation project created by Alex Fan. The animation features a picturesque night scene with a road, mountains, a moon, stars, and a road sign. The project leverages classes, arrays, and strings to achieve the desired animation effect.
+This repository contains an animation project created by Alex Fan. The animation features a picturesque night scene with a road, mountains, a moon, stars, and a road sign. The project leverages classes, arrays and strings to achieve the desired animation effect.
 
 ## Known Bugs/Problems
 
