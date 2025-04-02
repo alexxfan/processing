@@ -1,0 +1,4 @@
+site_name: processing-assignment
+nav:
+  - Home: README.md
+docs_dir: .
