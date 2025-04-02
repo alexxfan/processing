@@ -4,6 +4,8 @@ metadata:
   name: processing-assignment
   annotations:
     github.com/project-slug: alexxfan/processing
+    backstage.io/techdocs-ref: dir:.
+
 spec:
   type: other
   lifecycle: unknown
